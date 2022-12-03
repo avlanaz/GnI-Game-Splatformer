@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/__Scenes/Title.unity
+    guid: 70d7373d6d9e5d7478081941d9d3e270
+  - enabled: 1
+    path: Assets/__Scenes/_Tutorial.unity
+    guid: ef45fdea86361ab4995472197f953980
+  - enabled: 1
+    path: Assets/__Scenes/L1-Jump!.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/__Scenes/L2-TheSpikeTrap.unity
+    guid: 2546236826b30d141ab80cc5e80e770e
+  - enabled: 1
+    path: Assets/__Scenes/L3-TheDashlane.unity
+    guid: fee17c06b5bf1b545802170d81aec766
+  - enabled: 1
+    path: Assets/__Scenes/L4-TrickySwitches.unity
+    guid: b1f21c904c4d47f47850db3cbd045c5b
+  - enabled: 1
+    path: Assets/__Scenes/L5-TheSlamDam.unity
+    guid: 04ade3e980ca4a847a735d95650863b3
+  - enabled: 1
+    path: Assets/__Scenes/L6-RisingTension.unity
+    guid: 1e1b841353ae31e4b8d880ed865f5eae
+  - enabled: 1
+    path: Assets/__Scenes/L7-Backtrack.unity
+    guid: 36c058488d3c79d489ee0b063a3d58fc
+  - enabled: 1
+    path: Assets/__Scenes/L8-PseudoReflection.unity
+    guid: b8baac833505f7946965fd3a6dcf3dee
+  - enabled: 1
+    path: Assets/__Scenes/L9-DashDashDash.unity
+    guid: 8a40e0e8fbd82594a89afe609307a627
+  - enabled: 1
+    path: Assets/__Scenes/L10-TheHall.unity
+    guid: bc9a6a1e35ddbe0439ce90d0c7aaed97
+  - enabled: 1
+    path: Assets/__Scenes/L11-PlainAir.unity
+    guid: 430601bce28ceb6438e59ef9f91c81c6
+  - enabled: 1
+    path: Assets/__Scenes/Congratulations.unity
+    guid: 2f9defc8d677138408738b73cfdfdece
+  m_configObjects: {}
